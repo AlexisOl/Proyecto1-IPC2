@@ -16,8 +16,8 @@ import java.util.logging.Logger;
  */
 
 public class Conexion {
-private static final String USER ="AlexisOl";
-private static final String PASSWORD = "AlexisOl";
+private static final String USER ="AlexisOl1";
+private static final String PASSWORD = "AlexisOl123!";
 private static final String URL = "jdbc:mysql://localhost:3306/db_muebleria";  
 private final String database = "db_muebleria";
 
